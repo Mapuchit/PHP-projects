@@ -8,7 +8,7 @@ The program runs in the command line. It practices PHP syntax, variables, number
 ## Technologies
 * PHP v8.0.0
 * Git v2.24.1.windows.2
-git
+
 
 ## Features
 * Print separate message for each currency type.
