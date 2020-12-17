@@ -3,7 +3,7 @@
 
 ## General info
 The program runs in the command line by executing index.php.
-It practices PHP conditionals and logic. 
+It practices PHP conditionals, logic and modularity. 
 
 
 ## Technologies
